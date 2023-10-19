@@ -1,3 +1,5 @@
 .idea/
 venv/
-lesson36_step4.py
+test_lesson36_step4.py
+.pytest_cache/
+__pycache__/
